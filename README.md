@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ravi Rai | CISSP, CCSP
 
 ## 🌐 Director – Cybersecurity | Singapore  
-📧 R.k.rai@outlook.com | 📞 +65-87276016 | [LinkedIn – Ravi Rai](https://www.linkedin.com)
+📧 R.k.rai@outlook.com | [LinkedIn – Ravi Rai](https://www.linkedin.com)
 
 ---
 
@@ -74,25 +74,10 @@ Proactive cybersecurity leader with over **13 years of experience** building and
 
 ---
 
-### 🏆 Awards & Recognition
-
-- **Value Ambassador**, International SOS  
-- **Executive Leadership Development Program**  
-- **Level Up Leadership Graduate**
-
----
-
 ### 🧠 Education
 
 **B. Tech – Computer Science & Engineering**  
-Gautam Buddh Technical University, India (2007 – 2011)
-
----
-
-### 🤝 Affiliations
-
-- Member, **(ISC)²**  
-- Member ID: 598200  
+Gautam Buddh Technical University, India 
 
 ---
 
